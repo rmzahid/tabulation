@@ -48,7 +48,7 @@ return 0;
 
 bool semester::get_avg_mark(int subject_no, std::string &avg_sheet)
 {
-  // Yet to implement
+  return TRUE;// Yet to implement
 }
 bool semester::is_register()
 {
