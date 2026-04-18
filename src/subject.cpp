@@ -50,4 +50,5 @@ int subject::set_subject(int semester, int sub_no, std::string name, int tutoria
   Tutorial_mark=tutorial_mark;
   Final_exam=final_exam;
   Credit=credit;
+  return 0;
 }
